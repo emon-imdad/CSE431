@@ -4,6 +4,9 @@ https://youtu.be/aL9CBsC-yZ0
 Link to the Concept Map:
 https://drive.google.com/file/d/178BCAvGHDSucqP8FQfSiFk8RV2D7DpTj/view?usp=sharing
 
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=CSE431_Concept%20Map_Chapter%2015_Logical%20Representations%20of%20Sentence%20Meaning#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D178BCAvGHDSucqP8FQfSiFk8RV2D7DpTj%26export%3Ddownload
+
+
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
 Jurafsky
