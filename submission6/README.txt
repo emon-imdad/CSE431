@@ -19,7 +19,8 @@ completed book:
 
 did project:
 
-did something else:
+finished github tutorial:
+https://github.com/raqueeb/nlp_bangla
 
 was active in slack:
 https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642527897047100
